@@ -18,3 +18,6 @@ After the proper EDA analysis, several models, such as Logistic Regression, Deci
 
 # Models
 Different models have been used for the classification problem presented by Jusan Bank. Some of them are stored in the `jusan-model.ipynb` notebook. The best performed model was `XGBoost Classifier` with its f1-score on Kaggle of `0.73`. The XGBoost Classifier model automatically (internally) handles missing values, scaling, and normalization of the dataset.
+
+# Credits
+We express our appreciation to GDSC NU Community for organizing such an interesting Datathon and thank Jusan Bank for such an exciting case. The competition can be found <a href="https://www.kaggle.com/competitions/gdsc-nu-datathon-jusan-bank-case-competition">here</a>.
