@@ -1,6 +1,9 @@
 # JUSAN BANK DATATHON, TEAM EVEREST
 This is the repository of EVEREST's team for the Datathon case by Jusan Bank.
 
+# Overall
+The main model code is in the `jusan-model.ipynb` notebook, so only it matters during the testing process.
+
 # Exploratory Data Analysis
 The `data-preprocessing.ipynb` notebook contains all code that has been used to clean, preprocess, and prettify the original dataset. It does not contain any models that have been used to predict customers' labels.
 
